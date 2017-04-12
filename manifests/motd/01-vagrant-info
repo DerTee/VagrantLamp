@@ -1,0 +1,2 @@
+#!/bin/sh
+printf "MySQL-User: root Password: root, but only usable on localhost and phpmyadmin!\n"
