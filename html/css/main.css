@@ -1,0 +1,16 @@
+body {
+	background-color: #144;
+	font-family: Arial;
+}
+
+div.header, div.footer {
+	background-color: #799;
+}
+
+div.content {
+	background-color: #eee;
+}
+
+h1 {
+	font-size: 3.5em;
+}

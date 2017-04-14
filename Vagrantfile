@@ -15,9 +15,9 @@ Vagrant.configure("2") do |config|
     
     puppet module install puppetlabs-apache
     puppet module install puppetlabs-mysql --version 3.10.0
+    puppet module install puppetlabs-motd
     puppet module install mayflower-php --version 4.0
   SCRIPT
 
   config.vm.provision "puppet", run: "always"
 end
-
