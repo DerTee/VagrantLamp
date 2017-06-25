@@ -1,2 +1,0 @@
-#!/bin/sh
-printf "Working with puppet!\n"
