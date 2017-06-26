@@ -1,6 +1,6 @@
 # VagrantLamp
 A simple LAMP stack using Vagrant and Puppet.
-This is for you if you want to do PHP web development on a virtual machine with the basics setup for you.
+This is for you if you want to do PHP web development on a virtual machine with the basics set up for you.
 
 Alternatively you can use something like https://puphpet.com, but that didn't work for me.
 
@@ -14,6 +14,6 @@ Alternatively you can use something like https://puphpet.com, but that didn't wo
 ## Getting Started
   - Install VirtualBox and Vagrant
   - Clone this repository
-  - In your CLI got to your project directory and execute `vagrant up`
+  - In your CLI go to your project directory and execute `vagrant up`
   - Wait for vagrant and puppet to finish (this will take a while)
   - DONE!
